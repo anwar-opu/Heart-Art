@@ -20,6 +20,7 @@ cd Heart-Art
 ```bash
 python main.py
 ```
+3. A window will appear, displaying the red heart shape.
 ### Dependencies
 - Python's built-in `turtle` module
   
